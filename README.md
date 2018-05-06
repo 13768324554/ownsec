@@ -1,3 +1,5 @@
+## ownsec for xUbuntu 16.04 - 
+> STATUS - UNMAINTED as of 06.05.2018 - new main branch for 18.04 xUbuntu / Ubuntu + Xfce4 https://github.com/alphaaurigae/ownsec/tree/18.04_XFCE
 
 #### 1. What is this?
 - Install lots of IT-Sec related apps with dependencies
