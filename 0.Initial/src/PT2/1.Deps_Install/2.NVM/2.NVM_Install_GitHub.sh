@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BRANCH=xenial
+BRANCH=16.04-xenial_xerus
 GITREPO=git://github.com/alphaaurigae/nvm_node-npm_install.git
 GITREPOROOT=/opt/ownsec/0.Initial/src/PT2/1.Deps_Install/2.NVM/nvm_node-npm_install
 GITCLONEDIR=/opt/ownsec/0.Initial/src/PT2/1.Deps_Install/2.NVM
